@@ -8,7 +8,7 @@
 
 <br><br>
 
--  :school: Soy un programador `Junior` en [Ingenieria en Informática](https://www.duoc.cl/carreras/ingenieria-informatica/) en [DuocUC](https://www.duoc.cl/) Egresado.
+-  :school: Soy programador en [Ingenieria en Informática](https://www.duoc.cl/carreras/ingenieria-informatica/) en [DuocUC](https://www.duoc.cl/) Egresado.
 - :technologist: Me encanta la resolución de `Problemas` y `Creación` de proyectos .
 - :computer: Soy un programador  `Competente`, `Resolutivo`, `Creativo`
 - :student: Actualmente estoy estudianto `Computer Science` and `Software Engineering`, pero también investigo nuevos rumbos.
